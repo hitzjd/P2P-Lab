@@ -1,0 +1,88 @@
+# Microsoft Developer Studio Generated Dependency File, included by client1.mak
+
+.\cdownload.cpp : \
+	".\cdownload.h"\
+	".\client1.h"\
+	".\MainFrm.h"\
+	".\Online.h"\
+	".\OnlineList.h"\
+	
+
+.\client1.cpp : \
+	".\cdownload.h"\
+	".\client1.h"\
+	".\client1Doc.h"\
+	".\client1View.h"\
+	".\MainFrm.h"\
+	".\Online.h"\
+	".\OnlineList.h"\
+	
+
+.\client1.rc : \
+	".\res\client1.ico"\
+	".\res\client1.rc2"\
+	".\res\client1Doc.ico"\
+	".\res\Toolbar.bmp"\
+	
+
+.\client1Doc.cpp : \
+	".\client1.h"\
+	".\client1Doc.h"\
+	".\CntrItem.h"\
+	
+
+.\client1View.cpp : \
+	".\cdownload.h"\
+	".\client1.h"\
+	".\client1Doc.h"\
+	".\client1View.h"\
+	".\CntrItem.h"\
+	".\MainFrm.h"\
+	".\Online.h"\
+	".\OnlineList.h"\
+	
+
+.\CntrItem.cpp : \
+	".\cdownload.h"\
+	".\client1.h"\
+	".\client1Doc.h"\
+	".\client1View.h"\
+	".\CntrItem.h"\
+	".\MainFrm.h"\
+	".\Online.h"\
+	".\OnlineList.h"\
+	
+
+.\downonline.cpp : \
+	".\client1.h"\
+	".\downonline.h"\
+	
+
+.\IpBar1.cpp : \
+	".\client1.h"\
+	".\IpBar1.h"\
+	
+
+.\MainFrm.cpp : \
+	".\cdownload.h"\
+	".\client1.h"\
+	".\MainFrm.h"\
+	".\Online.h"\
+	".\OnlineList.h"\
+	
+
+.\Online.cpp : \
+	".\client1.h"\
+	".\Online.h"\
+	".\OnlineList.h"\
+	
+
+.\OnlineList.cpp : \
+	".\client1.h"\
+	".\OnlineList.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	"d:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	

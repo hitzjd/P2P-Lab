@@ -1,0 +1,39 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: client1 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/client1.res" /d "_DEBUG" /d "_AFXDLL" "C:\Users\QJC\Desktop\Experiment4\client 1.1\client1.rc"" 
+Creating temporary file "C:\Users\QJC\AppData\Local\Temp\RSP9643.tmp" with contents
+[
+"SkinPPWTL.lib " /nologo /subsystem:windows /incremental:yes /pdb:"Debug/client1.pdb" /debug /machine:I386 /out:"Debug/client1.exe" /pdbtype:sept 
+".\Debug\cdownload.obj"
+".\Debug\chatbar.obj"
+".\Debug\client1.obj"
+".\Debug\client1Doc.obj"
+".\Debug\client1View.obj"
+".\Debug\CntrItem.obj"
+".\Debug\downonline.obj"
+".\Debug\linkctrl.obj"
+".\Debug\MainFrm.obj"
+".\Debug\mysocket.obj"
+".\Debug\Online.obj"
+".\Debug\OnlineList.obj"
+".\Debug\StdAfx.obj"
+".\Debug\client1.res"
+]
+Creating command line "link.exe @C:\Users\QJC\AppData\Local\Temp\RSP9643.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+client1.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

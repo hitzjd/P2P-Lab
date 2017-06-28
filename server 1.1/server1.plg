@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: server1 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\QJC\AppData\Local\Temp\RSPA811.tmp" with contents
+[
+SkinPPWTL.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/server1.pdb" /debug /machine:I386 /out:"Debug/server1.exe" /pdbtype:sept 
+".\Debug\charbar.obj"
+".\Debug\CntrItem.obj"
+".\Debug\linkctrl.obj"
+".\Debug\MainFrm.obj"
+".\Debug\mysocket.obj"
+".\Debug\Online.obj"
+".\Debug\OnlineList.obj"
+".\Debug\server1.obj"
+".\Debug\server1Doc.obj"
+".\Debug\server1View.obj"
+".\Debug\StdAfx.obj"
+".\Debug\server1.res"
+]
+Creating command line "link.exe @C:\Users\QJC\AppData\Local\Temp\RSPA811.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+server1.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

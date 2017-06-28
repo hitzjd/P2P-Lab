@@ -1,0 +1,57 @@
+NewCHSS 为程明   E:/NewCHSS
+NewChss2  自己
+
+
+
+charge()函数路径：  
+/voj.web/src/main/java/org/verwandlung/voj/web/controller/DefaultController.java
+
+
+公众平台账号：tumingliu@gmail.com  ltm88888
+哈尔滨星云生物信息技术开发有限公司
+逄龙
+15636818096
+逄龙作为公众号运营者
+公众号支付，都是以公众号为基础进行申请，而且必须为服务号。也就是说你首先需要申请一个公众号，然后再对其进行认证，
+认证完成之后，就可以在你公众号中开始微信支付的申请流程了
+
+BGIOnline :  tomorrowshipy	Ltm888888    https://app.bgionline.com/#/home
+
+牛客网
+
+1.明天搭建数据库，运行已有代码
+
+SRA或DNANexus网址：
+http://sra.dnanexus.com/
+
+NCBI网址：
+http://www.ncbi.nlm.nih.gov/
+
+项目管理网址:
+http://www.nebulagene.tk:19080/
+liutuming liutuming
+
+代码管理网址：
+http://gitlab.nebulagene.tk:19080/
+641119002@qq.com liutuming
+
+前端：
+angularjs
+bootstrip
+
+Play Framework 全栈式Java  web框架
+
+服务端：
+jasion Ajax
+
+数据来源：  （ 打开IE，用Aspera connect作为插件下载.rsa文件，链接http://www.ncbi.nlm.nih.gov/public/ ，然后找到rsa目录）
+SRA数据（download .fastq ,rsa） 、PGP(https://my.pgp-hms.org/profile_public?hex=hu43860C  )
+数据来源DNANexus 、PTP
+
+
+画use case：  采用starUML
+
+D:\Eclipse\eclipse
+ restful angularjs webservice
+
+jsp(java server pages ,java服务器页面),是在html基础上，改进的.jsp文件。
